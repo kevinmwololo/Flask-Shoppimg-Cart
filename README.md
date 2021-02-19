@@ -1,5 +1,5 @@
 # Shopping Cart  
-A simple E-commerce website using Flask and SQLite
+A simple E-commerce website using Flask and SqLite
   
 ## Dependencies ##
 1. Python3
